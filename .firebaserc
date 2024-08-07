@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "staging": "friendlyeats-ac00d"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
