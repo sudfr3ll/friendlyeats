@@ -12,3 +12,10 @@ env:
     value: "500671526560"
   - variable: NEXT_PUBLIC_FIREBASE_APP_ID
     value: "1:500671526560:web:e699543b98541e002e7bc5"
+# Settings for Cloud Run
+runConfig:
+  minInstances: 0
+  maxInstances: 10
+  concurrency: 50
+  cpu: 1
+  memoryMiB: 512
